@@ -28,3 +28,5 @@ yarn start
 ```
 
 ## How it looks
+
+![This is a screenshot](screenshot.png)
